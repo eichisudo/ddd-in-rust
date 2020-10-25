@@ -1,3 +1,5 @@
+# Rust入門に使わせてもらう。
+Thanks @kuwana-kb san.
 # 概要
 ddd-in-rustは、DDDの実装パターンをRustで表現すること試みたリポジトリです。
 
